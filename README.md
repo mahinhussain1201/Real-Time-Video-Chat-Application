@@ -27,7 +27,7 @@ Welcome to our real-time chat application! This project demonstrates a modern ap
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/chat-app.git
+   git clone https://github.com/mahinhussain1201/Real-Time-Video-Chat-Application.git
    cd chat-app
    ```
 
